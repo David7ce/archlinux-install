@@ -7,8 +7,8 @@
 	- [Configure the system](#Configure-the-system)
 	- [Post-installation](#Post-installation)
 	- [Reboot](#Reboot)
-- [Code block](#Code%20bock)
-- [App installation](#App%20installation)
+- [Code block](#Code-bock)
+- [App installation](#App-installation)
 - [References](#References)
 
 # Arch linux installation
