@@ -7,7 +7,7 @@
 	- [Configure the system](#Configure-the-system)
 	- [Post-installation](#Post-installation)
 	- [Reboot](#Reboot)
-- [Code block](#Code-bock)
+- [Code block](#Code-block)
 - [App installation](#App-installation)
 - [References](#References)
 
